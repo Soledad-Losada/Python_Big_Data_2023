@@ -13,3 +13,8 @@
         -  for variabe_iteradora in variable: #variable _ no iterar sobre una variable conocida, solo repetir un valor un número de veces.
         -  range
       
+- Sole_3_FuncionesEnPython_student:
+      - funciones
+      - for/while
+      - importar librerias
+      - especificar valores por defecto en los parámetros de una función.
