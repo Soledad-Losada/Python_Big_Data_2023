@@ -14,7 +14,7 @@
         -  range
       
 - Sole_3_FuncionesEnPython_student:
-      - funciones
-      - for/while
-      - importar librerias
-      - especificar valores por defecto en los parámetros de una función.
+    - funciones
+    - for/while
+    - importar librerias
+    - especificar valores por defecto en los parámetros de una función.
